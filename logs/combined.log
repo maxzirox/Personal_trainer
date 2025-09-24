@@ -18,3 +18,30 @@
 {"level":"info","message":"::1 - - [24/Sep/2025:20:34:13 +0000] \"GET /api/routines HTTP/1.1\" 401 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:34:13.703Z"}
 {"level":"info","message":"::1 - - [24/Sep/2025:20:34:20 +0000] \"GET /api/diets HTTP/1.1\" 401 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:34:20.676Z"}
 {"level":"info","message":"::1 - - [24/Sep/2025:20:34:33 +0000] \"GET /api/workouts HTTP/1.1\" 401 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:34:33.289Z"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 3000","service":"personal-trainer-api","timestamp":"2025-09-24T20:34:57.676Z"}
+{"level":"info","message":"🌍 Ambiente: development","service":"personal-trainer-api","timestamp":"2025-09-24T20:34:57.677Z"}
+{"level":"info","message":"📊 Health check: http://localhost:3000/api/health","service":"personal-trainer-api","timestamp":"2025-09-24T20:34:57.678Z"}
+{"level":"info","message":"✅ Conexión a MySQL establecida correctamente","service":"personal-trainer-api","timestamp":"2025-09-24T20:34:57.693Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:35:16 +0000] \"GET /api/workouts HTTP/1.1\" 401 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:35:16.789Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:35:21 +0000] \"GET /api/auth HTTP/1.1\" 404 91 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:35:21.427Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:35:25 +0000] \"GET /api/auth/login HTTP/1.1\" 404 97 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:35:25.809Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:35:32 +0000] \"GET /api/auth/login HTTP/1.1\" 404 97 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:35:32.072Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:36:17 +0000] \"GET /auth/login HTTP/1.1\" 404 93 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:36:17.870Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:36:22 +0000] \"GET /auth/register HTTP/1.1\" 404 96 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:36:22.284Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:36:32 +0000] \"GET /api/auth/register HTTP/1.1\" 404 100 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:36:32.231Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:36:42 +0000] \"GET /api/auth/register HTTP/1.1\" 404 100 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:36:42.332Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:38:40 +0000] \"POST /api/auth/register HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:38:40.104Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:39:00 +0000] \"POST /api/auth/register HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:39:00.992Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:40:46 +0000] \"POST /api/auth/register HTTP/1.1\" 500 522 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:40:46.088Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:44:30 +0000] \"POST /api/auth/register HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:44:30.277Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:46:35 +0000] \"POST /api/auth/register HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:46:35.469Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:46:52 +0000] \"POST /api/auth/register HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:46:52.890Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:47:31 +0000] \"POST /api/auth/register HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:47:31.691Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:48:48 +0000] \"POST /api/auth/register HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:48:48.244Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:49:30 +0000] \"POST /api/auth/register HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:49:30.095Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:49:42 +0000] \"POST /api/auth/register HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:49:42.826Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:49:53 +0000] \"POST /api/auth/register HTTP/1.1\" 500 806 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:49:53.891Z"}
+{"level":"info","message":"Nuevo usuario registrado: juan@email.com","service":"personal-trainer-api","timestamp":"2025-09-24T20:51:04.146Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:51:04 +0000] \"POST /api/auth/register HTTP/1.1\" 201 279 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:51:04.149Z"}
+{"level":"info","message":"Usuario logueado: juan@email.com","service":"personal-trainer-api","timestamp":"2025-09-24T20:52:31.780Z"}
+{"level":"info","message":"::1 - - [24/Sep/2025:20:52:31 +0000] \"POST /api/auth/login HTTP/1.1\" 200 290 \"-\" \"PostmanRuntime/7.44.1\"","service":"personal-trainer-api","timestamp":"2025-09-24T20:52:31.782Z"}
