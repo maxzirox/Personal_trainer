@@ -1,0 +1,1 @@
+SELECT * FROM personal_trainer_db.categorias_ejercicios;
